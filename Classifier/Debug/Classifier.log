@@ -1,0 +1,5 @@
+﻿  classifier.cpp
+d:\project\classifier\classifier\classifier.cpp(56): error C2259: ScaleInt: невозможно создать экземпляр абстрактного класса
+  d:\project\classifier\classifier\classifier.cpp(56): note: из-за следующих членов:
+  d:\project\classifier\classifier\classifier.cpp(56): note: void Scale::setValue(void): абстрактный
+  d:\project\classifier\classifier\classifier.h(37): note:  см. объявление "Scale::setValue"
